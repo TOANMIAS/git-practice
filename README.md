@@ -1,6 +1,2 @@
-# \# Dự án Git Demo
-
-# Nội dung được chỉnh sửa từ nhánh main.
-
-
-
+# Dự án Git Demo
+Nội dung từ cả hai nhánh: main và conflict-demo.
