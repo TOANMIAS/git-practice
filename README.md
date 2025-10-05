@@ -1,2 +1,6 @@
-# Git Practice
-Giới thiệu: Tôi là <Phạm Huỳnh Bảo Toàn>, MSSV <226464>.
+# \# Dự án Git Demo
+
+# Nội dung được chỉnh sửa từ nhánh main.
+
+
+
